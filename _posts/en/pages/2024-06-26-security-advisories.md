@@ -105,6 +105,12 @@ of a second major version containing the fix. **High** severity vulnerabilities 
 weeks after the last affected release goes [End of Life](/en/lifecycle/) (approximately a year after
 a major version containing the fix was first released).
 
+Here is an example for each severity level to illustrate the policy. A **Low** severity
+vulnerability fixed in version 25.0 will be disclosed 2 weeks after it is published. A **Medium**
+severity vulnerability fixed in version 27.0 will be disclosed 2 weeks after version 28.0 is
+published. A **High** severity vulnerability fixed in version 28.0 will be disclosed 2 weeks after
+version 30.0 is published.
+
 A pre-announcement will be made two weeks prior to releasing the details of a vulnerability. This
 pre-announcement will coincide with the release of a new major version and contain the number of
 fixed vulnerabilities and their severity levels.
